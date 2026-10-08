@@ -148,31 +148,28 @@
   "vlrnow": [
     {
       "formato": "vertical",
-      "rotulo": "Reel"
+      "rotulo": "Reel",
+      "youtube": "https://youtube.com/shorts/C2n_DL4SxmY"
     },
     {
       "formato": "quadrado",
-      "rotulo": "Imagem"
+      "rotulo": "Imagem",
+      "arquivo": "media/SnapInsta.to_531450935_767688043092376_5055564540353673696_n.jpg"
     },
     {
       "formato": "vertical",
-      "rotulo": "Reel"
+      "rotulo": "Reel",
+      "youtube": "https://youtube.com/shorts/Qn_HfqjygWY"
     },
     {
       "formato": "quadrado",
-      "rotulo": "Imagem"
-    },
-    {
-      "formato": "horizontal",
-      "rotulo": "Vídeo"
-    },
-    {
-      "formato": "vertical",
-      "rotulo": "Reel"
+      "rotulo": "Imagem",
+      "arquivo": "media/SnapInsta.to_538385681_17847060921550407_1583442637584155160_n.jpg"
     },
     {
       "formato": "quadrado",
-      "rotulo": "Imagem"
+      "rotulo": "Imagem",
+      "arquivo": "media/SnapInsta.to_534381144_773164045878109_823191784808233743_n.jpg"
     }
   ]
 }
