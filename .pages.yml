@@ -31,14 +31,23 @@ content:
           - { name: titulo, label: Título, type: string }
           - { name: descricao, label: Descrição curta, type: text }
           - { name: link, label: Link da matéria no g1, type: string }
+          - { name: imagem, label: Foto de fundo do cartão (opcional), type: image }
       - name: apresentacao
-        label: Apresentação na TV
+        label: No ar, na TV Diário
         type: object
         fields:
           - { name: titulo, label: Título, type: string }
           - { name: descricao, label: Texto, type: text }
           - { name: youtube, label: Link do vídeo no YouTube, type: string }
           - { name: link, label: Link alternativo (g1), type: string }
+          - name: chamadas
+            label: Chamadas do g1 na TV (vídeos)
+            type: object
+            list: true
+            fields:
+              - { name: titulo, label: Título, type: string }
+              - { name: youtube, label: Link do vídeo no YouTube, type: string }
+              - { name: link, label: Link alternativo, type: string }
       - name: videos
         label: Ilha de edição (vídeos)
         type: object
@@ -48,6 +57,13 @@ content:
           - { name: descricao, label: Descrição, type: text }
           - { name: youtube, label: Link do vídeo no YouTube, type: string }
           - { name: link, label: Link da matéria no g1, type: string }
+          - name: formato
+            label: Formato do vídeo
+            type: select
+            options:
+              values:
+                - { value: horizontal, label: Horizontal }
+                - { value: vertical, label: Vertical }
       - name: tv
         label: Produções para a TV
         type: object
