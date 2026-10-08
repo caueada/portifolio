@@ -56,14 +56,16 @@
   "apresentacao": {
     "titulo": "Rolê no Alto Tietê",
     "descricao": "Como estagiário, produzia semanalmente a agenda cultural da região. Já como repórter, assumi a apresentação do quadro Rolê no Alto Tietê, escrevendo os offs e atuando no estúdio.",
-    "youtube": "https://youtu.be/tp2WpCtG8qA?is=BDSOadLQ4MpvuXMZ",
+    "youtube": "https://youtu.be/tp2WpCtG8qA",
     "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/10/role-no-alto-tiete-fim-de-semana-tem-shows-de-belo-henrique-e-juliano-e-natanzinho-lima.ghtml",
     "chamadas": [
       {
-        "titulo": "Viu isso do g1"
+        "titulo": "Viu isso do g1",
+        "youtube": "https://youtu.be/DXJuH-dixTk"
       },
       {
-        "titulo": "Chamada do g1 na TV 2"
+        "titulo": "Chamada do g1 na TV",
+        "youtube": "https://youtu.be/WMIzmkEWX-U"
       }
     ]
   },
