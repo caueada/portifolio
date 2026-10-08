@@ -4,10 +4,8 @@
 <meta name="description" content="Cauê Adamuz, jornalista em São Paulo. Reportagem, texto, vídeo e TV."><title>Cauê Adamuz — Jornalista</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#f8f5ee;--ink:#151515;--mute:#8a847a;--line:#e1dbcf;--card:#efeadd;--red:#a4161a;
+:root{color-scheme:light;--bg:#ffffff;--ink:#17171a;--mute:#7b766d;--line:#ebe7de;--card:#f6f3ec;--red:#a4161a;
 box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121110;--ink:#efe9dc;--mute:#8f887d;--line:#2b2825;--card:#1b1917;--red:#e2575a}}
-:root[data-theme="dark"]{--bg:#121110;--ink:#efe9dc;--mute:#8f887d;--line:#2b2825;--card:#1b1917;--red:#e2575a}
 html{scroll-behavior:smooth}*{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.65 'Source Serif 4',Georgia,serif;-webkit-font-smoothing:antialiased}
 a{color:inherit;text-decoration:none}button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer;text-align:left}
@@ -63,10 +61,10 @@ section{padding:90px 0 20px}
 .qi:hover,.qi.on{border-color:var(--line);background:var(--card)}.qi.on h4{color:var(--red)}
 .split{display:grid;grid-template-columns:1fr 1.3fr;gap:56px;align-items:center}
 .split h3{font:900 clamp(30px,4vw,48px)/1.05 'Playfair Display',serif;margin:12px 0}
-.tv{display:grid;grid-template-columns:repeat(2,1fr);gap:0;border-top:1px solid var(--line)}
-.tvi{padding:26px 28px 26px 0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:40px 1fr;gap:10px;transition:.3s}
-.tvi:nth-child(even){padding-left:28px;border-left:1px solid var(--line)}
-.tvi:hover{background:var(--card)}.tvi h3{font:700 20px/1.3 'Playfair Display',serif;margin:0 0 4px}.tvi p{margin:0;color:var(--mute);font-size:15.5px}
+.tv{display:grid;grid-template-columns:repeat(2,1fr);gap:44px 36px}
+.tvi{display:flex;flex-direction:column;gap:8px;padding-top:18px;border-top:1px solid var(--line)}
+.tvi .vid{margin-bottom:10px}.tvi h3{font:700 clamp(20px,2.2vw,25px)/1.25 'Playfair Display',serif;margin:2px 0 0}.tvi p{margin:0;color:var(--mute);font-size:16px}
+.tvi .btn{align-self:flex-start;padding:11px 20px;margin-top:10px}
 .med{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
 .med .m{background:linear-gradient(160deg,var(--card),var(--line));aspect-ratio:9/16;position:relative;display:grid;place-items:center;overflow:hidden;transition:transform .4s}
 .med .m.sq{aspect-ratio:1}.med .m.wd{grid-column:span 2;aspect-ratio:16/9}
@@ -80,7 +78,7 @@ section{padding:90px 0 20px}
 footer{padding:0 0 40px;text-align:center;color:var(--mute);font-size:13px}
 #toast{position:fixed;left:50%;bottom:24px;transform:translate(-50%,30px);background:var(--ink);color:var(--bg);padding:12px 20px;opacity:0;transition:.4s;z-index:20;pointer-events:none}#toast.on{opacity:1;transform:translate(-50%,0)}
 .rv{opacity:0;transform:translateY(24px);transition:opacity .9s,transform .9s}.rv.on{opacity:1;transform:none}
-@media(max-width:800px){nav.bar div{display:none}.bio,.split,.studio{grid-template-columns:1fr;gap:26px}.card,.card.big{grid-column:span 6;grid-row:auto;min-height:0}.bento{gap:12px}.tv{grid-template-columns:1fr}.tvi:nth-child(even){padding-left:0;border-left:0}.med{grid-template-columns:repeat(2,1fr)}.q{flex-direction:row;overflow-x:auto}.qi{min-width:240px}}
+@media(max-width:800px){nav.bar div{display:none}.bio,.split,.studio{grid-template-columns:1fr;gap:26px}.card,.card.big{grid-column:span 6;grid-row:auto;min-height:0}.bento{gap:12px}.tv{grid-template-columns:1fr}.med{grid-template-columns:repeat(2,1fr)}.q{flex-direction:row;overflow-x:auto}.qi{min-width:240px}}
 @media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;animation-delay:0s!important;transition:none!important}.rv,.av,.role{opacity:1;transform:none}h1 .l{transform:none}}
 </style></head><body>
 <nav class="bar"><div class="w"><b>C. Adamuz</b><div class="sc"><a href="#bio">Sobre</a><a href="#g1">Matérias</a><a href="#video">Vídeo</a><a href="#tv">TV</a><a href="#valorant">Valorant</a><a href="#contato">Contato</a></div></div></nav>
@@ -108,7 +106,7 @@ footer{padding:0 0 40px;text-align:center;color:var(--mute);font-size:13px}
 <section id="video"><div class="hd rv"><span class="sc red">Edição de vídeo</span><h2>Ilha de edição</h2><p>Vídeos que editei e produzi para o g1 e suas redes sociais.</p></div>
  <div class="studio rv"><div class="stage" id="stage"></div><div class="q" id="q"></div></div></section>
 
-<section id="tv"><div class="hd rv"><span class="sc red">Telejornalismo</span><h2>Produções para a TV</h2><p>Reportagens produzidas na TV Diário, afiliada Globo.</p></div>
+<section id="tv"><div class="hd rv"><span class="sc red">Telejornalismo</span><h2>Produções para a TV</h2><p>Reportagens produzidas na TV Diário, afiliada Globo, com vídeo e link para assistir.</p></div>
  <div class="tv rv" id="tvl"></div></section>
 
 <section id="valorant"><div class="hd rv"><span class="sc red">Projeto independente</span><h2>Vlr.now</h2><p>Página de notícias sobre Valorant no Instagram. Textos, imagens e roteiros de vídeo, do processo à publicação.</p>
@@ -130,7 +128,7 @@ fetch("conteudo.json",{cache:"no-store"}).then(function(r){return r.json()}).the
  FEAT=(c.destaques||[]).map(function(x){return [x.tag,x.titulo,x.descricao,x.link]});
  VIDS=(c.videos||[]).map(function(x){return {t:x.titulo,d:x.descricao,youtube:x.youtube,src:"",link:x.link}});
  var a=c.apresentacao||{};APRES={t:a.titulo,youtube:a.youtube,src:"",link:a.link};APDESC=a.descricao;
- TVS=(c.tv||[]).map(function(x){return [x.titulo,x.descricao]});
+ TVS=(c.tv||[]).map(function(x){return {t:x.titulo,d:x.descricao,link:x.link||"",yt:x.youtube||"",show:!!x.mostrar_video}});
  var F={vertical:"v",quadrado:"s",horizontal:"w"};
  MED=(c.vlrnow||[]).map(function(x){return {k:F[x.formato]||"v",l:x.rotulo,src:P(x.arquivo),youtube:x.youtube}});
  start();
@@ -160,7 +158,9 @@ function stage(i){var v=VIDS[i];$("stage").innerHTML=vid(v,"Em exibição")+'<di
 $("q").innerHTML=VIDS.map(function(v,i){return '<button class="qi" data-i="'+i+'"><div class="vid"'+(yid(v.youtube)?' style="background:url(https://i.ytimg.com/vi/'+yid(v.youtube)+'/mqdefault.jpg) center/cover"':'')+'><span class="play"></span></div><h4>'+v.t+'</h4></button>'}).join("");
 [].forEach.call($("q").children,function(c){c.onclick=function(){var s=$("stage");s.style.opacity=.2;setTimeout(function(){stage(+c.dataset.i);s.style.opacity=1},200)}});
 stage(0);
-$("tvl").innerHTML=TVS.map(function(x,i){return '<div class="tvi"><span class="sc red" style="padding-top:8px">'+String(i+1).padStart(2,"0")+'</span><div><h3>'+x[0]+'</h3><p>'+x[1]+'</p></div></div>'}).join("");
+var tvs=TVS.map(function(x,i){x.n=i;return x}).sort(function(a,b){return (b.show||yid(b.yt)?1:0)-(a.show||yid(a.yt)?1:0)||a.n-b.n});
+$("tvl").innerHTML=tvs.map(function(x){var v=(x.show||yid(x.yt))?vid({t:x.t,youtube:x.yt,src:"",link:x.link},"Vídeo em breve"):"";
+ return '<article class="tvi">'+v+'<span class="sc red">'+String(x.n+1).padStart(2,"0")+'</span><h3>'+x.t+'</h3><p>'+x.d+'</p>'+(x.link?'<a class="btn sc" href="'+x.link+'" target="_blank" rel="noopener">Ver reportagem <span>↗</span></a>':'')+'</article>'}).join("");
 $("med").innerHTML=MED.map(function(m){var c=m.k==="s"?" sq":m.k==="w"?" wd":"";var y=yid(m.youtube);var inner=y?emb(y,m.l):m.src?(/\.mp4|\.webm/.test(m.src)?'<video src="'+m.src+'" controls playsinline></video>':'<img alt="" src="'+m.src+'">'):'<span class="play"></span>';return '<div class="m'+c+'">'+inner+'<span class="tag sc mute">'+m.l+'</span></div>'}).join("");
 $("yr").textContent=new Date().getFullYear();
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("on");io.unobserve(e.target)}})},{threshold:.08});
