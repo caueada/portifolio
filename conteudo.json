@@ -89,35 +89,59 @@
   "tv": [
     {
       "titulo": "Empresários e comerciantes sentem impacto de aumento do IOF",
-      "descricao": "Com entrevista ao deputado federal Rodrigo Gambale."
+      "descricao": "Com entrevista ao deputado federal Rodrigo Gambale.",
+      "link": "https://caueada.wordpress.com/portifolio/",
+      "youtube": "",
+      "mostrar_video": true
     },
     {
       "titulo": "Fiéis que tiveram contato com papa falam sobre legado de Francisco",
-      "descricao": "Histórias de quem esteve no Vaticano."
+      "descricao": "Histórias de quem esteve no Vaticano.",
+      "link": "https://caueada.wordpress.com/portifolio/",
+      "youtube": "",
+      "mostrar_video": true
     },
     {
       "titulo": "Região registra aumento no número de queimadas",
-      "descricao": "Alta de quase 51% de 2022 a agosto de 2024. Com Mariana Queiroz, Anielle Santos e Lucas Bello."
+      "descricao": "Alta de quase 51% de 2022 a agosto de 2024. Com Mariana Queiroz, Anielle Santos e Lucas Bello.",
+      "link": "https://caueada.wordpress.com/portifolio/",
+      "youtube": "",
+      "mostrar_video": false
     },
     {
       "titulo": "1º leprosário do Brasil era localizado em Mogi das Cruzes",
-      "descricao": "Com Everton Dertonio, e um documentário sobre o tema."
+      "descricao": "Com Everton Dertonio, e um documentário sobre o tema.",
+      "link": "https://caueada.wordpress.com/portifolio/",
+      "youtube": "",
+      "mostrar_video": false
     },
     {
       "titulo": "Diversos setores se adaptam ao sistema de delivery",
-      "descricao": "Pauta idealizada e desenvolvida por mim."
+      "descricao": "Pauta idealizada e desenvolvida por mim.",
+      "link": "https://caueada.wordpress.com/portifolio/",
+      "youtube": "",
+      "mostrar_video": false
     },
     {
       "titulo": "Os problemas relacionados a passagens em nível",
-      "descricao": "Segurança nas travessias de Mogi das Cruzes."
+      "descricao": "Segurança nas travessias de Mogi das Cruzes.",
+      "link": "https://caueada.wordpress.com/portifolio/",
+      "youtube": "",
+      "mostrar_video": false
     },
     {
       "titulo": "Série histórica sobre Mogi das Cruzes",
-      "descricao": "Com Mariana Queiroz: Indústria, Cinturão Verde e Imigrantes."
+      "descricao": "Com Mariana Queiroz: Indústria, Cinturão Verde e Imigrantes.",
+      "link": "https://caueada.wordpress.com/portifolio/",
+      "youtube": "",
+      "mostrar_video": false
     },
     {
       "titulo": "Série de reportagens sobre trânsito",
-      "descricao": "Maio Amarelo: frota de veículos, idosos e embriaguez."
+      "descricao": "Maio Amarelo: frota de veículos, idosos e embriaguez.",
+      "link": "https://caueada.wordpress.com/portifolio/",
+      "youtube": "",
+      "mostrar_video": false
     }
   ],
   "vlrnow": [
