@@ -1,0 +1,73 @@
+media:
+  input: media
+  output: media
+
+content:
+  - name: site
+    label: Conteúdo do site
+    type: file
+    path: conteudo.json
+    format: json
+    fields:
+      - name: perfil
+        label: Perfil e contato
+        type: object
+        fields:
+          - { name: foto, label: Sua foto, type: image }
+          - { name: curriculo, label: Currículo (PDF), type: file }
+          - { name: email, label: E-mail, type: string }
+          - { name: instagram, label: Link do Instagram do Vlr.now, type: string }
+          - { name: g1, label: Link da sua página no g1, type: string }
+          - { name: portfolio_antigo, label: Link do portfólio antigo, type: string }
+          - { name: palavras, label: Palavras que mudam no início, type: string, list: true }
+          - { name: bio_destaque, label: Bio (parágrafo grande), type: text }
+          - { name: bio_complemento, label: Bio (parágrafo menor), type: text }
+      - name: destaques
+        label: Matérias de destaque do g1 (a primeira vira o cartão grande)
+        type: object
+        list: true
+        fields:
+          - { name: tag, label: Categoria, type: string }
+          - { name: titulo, label: Título, type: string }
+          - { name: descricao, label: Descrição curta, type: text }
+          - { name: link, label: Link da matéria no g1, type: string }
+      - name: apresentacao
+        label: Apresentação na TV
+        type: object
+        fields:
+          - { name: titulo, label: Título, type: string }
+          - { name: descricao, label: Texto, type: text }
+          - { name: youtube, label: Link do vídeo no YouTube, type: string }
+          - { name: link, label: Link alternativo (g1), type: string }
+      - name: videos
+        label: Ilha de edição (vídeos)
+        type: object
+        list: true
+        fields:
+          - { name: titulo, label: Título, type: string }
+          - { name: descricao, label: Descrição, type: text }
+          - { name: youtube, label: Link do vídeo no YouTube, type: string }
+          - { name: link, label: Link da matéria no g1, type: string }
+      - name: tv
+        label: Produções para a TV
+        type: object
+        list: true
+        fields:
+          - { name: titulo, label: Título, type: string }
+          - { name: descricao, label: Descrição, type: text }
+      - name: vlrnow
+        label: Vlr.now (vídeos e imagens)
+        type: object
+        list: true
+        fields:
+          - name: formato
+            label: Formato
+            type: select
+            options:
+              values:
+                - { value: vertical, label: Vertical (reel) }
+                - { value: quadrado, label: Quadrado }
+                - { value: horizontal, label: Horizontal }
+          - { name: rotulo, label: Rótulo, type: string }
+          - { name: arquivo, label: Imagem (se for imagem), type: image }
+          - { name: youtube, label: Link do YouTube (se for vídeo), type: string }

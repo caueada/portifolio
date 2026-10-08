@@ -1,0 +1,167 @@
+{
+  "perfil": {
+    "foto": "",
+    "curriculo": "",
+    "email": "caueadamuza@gmail.com",
+    "instagram": "",
+    "g1": "https://g1.globo.com/autores/caue-adamuz/",
+    "portfolio_antigo": "https://caueada.wordpress.com/portifolio/",
+    "palavras": [
+      "reportagem",
+      "texto",
+      "vídeo",
+      "TV",
+      "apuração"
+    ],
+    "bio_destaque": "Sou jornalista em São Paulo, com experiência em reportagem para TV, texto e vídeo. Passei pela TV Diário, afiliada Globo, e pelo g1 de Mogi das Cruzes e Suzano, onde comecei como estagiário e segui como repórter.",
+    "bio_complemento": "Escrevo, apuro, edito vídeos e já apresentei quadro no telejornal. Também desenvolvo projetos independentes, do documentário à análise de dados públicos e ao jornalismo de e-sports."
+  },
+  "destaques": [
+    {
+      "tag": "Incêndio",
+      "titulo": "Incêndio de grandes proporções atinge indústria química em Itaquaquecetuba",
+      "descricao": "Primeira de oito reportagens sobre o caso, com apuração de vários dias.",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    },
+    {
+      "tag": "Esporte",
+      "titulo": "‘Na Coreia ou no Japão, o penta tá na mão’: como uma frase levou jovem de SP à Copa de 2002",
+      "descricao": "Mais de 20 anos depois, o reencontro com o torcedor.",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    },
+    {
+      "tag": "Comunidade",
+      "titulo": "Parada LGBT+ é símbolo de resistência e visibilidade em Mogi das Cruzes",
+      "descricao": "Como a Parada foi idealizada e o que ela significa.",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    },
+    {
+      "tag": "Clima",
+      "titulo": "Verão deve ter pouca chuva e temperaturas acima da média em 2026",
+      "descricao": "Entrevistas, dados e contexto sobre abastecimento.",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    },
+    {
+      "tag": "Série",
+      "titulo": "Caminhos de Mogi",
+      "descricao": "Três reportagens pelos 465 anos da cidade.",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    },
+    {
+      "tag": "Cotidiano",
+      "titulo": "Mecânico usa caiaque para resgatar cachorros durante enchente em Suzano",
+      "descricao": "Texto e vídeo para redes sociais.",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    }
+  ],
+  "apresentacao": {
+    "titulo": "Rolê no Alto Tietê",
+    "descricao": "Como estagiário, produzia semanalmente a agenda cultural da região. Já como repórter, assumi a apresentação do quadro Rolê no Alto Tietê, escrevendo os offs e atuando no estúdio.",
+    "youtube": "",
+    "link": "https://g1.globo.com/autores/caue-adamuz/"
+  },
+  "videos": [
+    {
+      "titulo": "Mulher de 32 anos morre afogada em piscina em Guararema",
+      "descricao": "Vídeo de apoio produzido com Larissa Rodrigues.",
+      "youtube": "",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    },
+    {
+      "titulo": "Igrejas do Carmo de Mogi das Cruzes seguem fechadas há mais de um ano",
+      "descricao": "Edição de imagens do vídeo da reportagem.",
+      "youtube": "",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    },
+    {
+      "titulo": "Em Mogi das Cruzes, pipoca vai além do milho",
+      "descricao": "Texto e vídeo para redes sociais.",
+      "youtube": "",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    },
+    {
+      "titulo": "Mecânico usa caiaque para resgatar cachorros",
+      "descricao": "Texto e vídeo para redes sociais.",
+      "youtube": "",
+      "link": "https://g1.globo.com/autores/caue-adamuz/"
+    }
+  ],
+  "tv": [
+    {
+      "titulo": "Empresários e comerciantes sentem impacto de aumento do IOF",
+      "descricao": "Com entrevista ao deputado federal Rodrigo Gambale."
+    },
+    {
+      "titulo": "Fiéis que tiveram contato com papa falam sobre legado de Francisco",
+      "descricao": "Histórias de quem esteve no Vaticano."
+    },
+    {
+      "titulo": "Região registra aumento no número de queimadas",
+      "descricao": "Alta de quase 51% de 2022 a agosto de 2024. Com Mariana Queiroz, Anielle Santos e Lucas Bello."
+    },
+    {
+      "titulo": "1º leprosário do Brasil era localizado em Mogi das Cruzes",
+      "descricao": "Com Everton Dertonio, e um documentário sobre o tema."
+    },
+    {
+      "titulo": "Diversos setores se adaptam ao sistema de delivery",
+      "descricao": "Pauta idealizada e desenvolvida por mim."
+    },
+    {
+      "titulo": "Os problemas relacionados a passagens em nível",
+      "descricao": "Segurança nas travessias de Mogi das Cruzes."
+    },
+    {
+      "titulo": "Série histórica sobre Mogi das Cruzes",
+      "descricao": "Com Mariana Queiroz: Indústria, Cinturão Verde e Imigrantes."
+    },
+    {
+      "titulo": "Série de reportagens sobre trânsito",
+      "descricao": "Maio Amarelo: frota de veículos, idosos e embriaguez."
+    }
+  ],
+  "vlrnow": [
+    {
+      "formato": "vertical",
+      "rotulo": "Reel",
+      "arquivo": "",
+      "youtube": ""
+    },
+    {
+      "formato": "quadrado",
+      "rotulo": "Imagem",
+      "arquivo": "",
+      "youtube": ""
+    },
+    {
+      "formato": "vertical",
+      "rotulo": "Reel",
+      "arquivo": "",
+      "youtube": ""
+    },
+    {
+      "formato": "quadrado",
+      "rotulo": "Imagem",
+      "arquivo": "",
+      "youtube": ""
+    },
+    {
+      "formato": "horizontal",
+      "rotulo": "Vídeo",
+      "arquivo": "",
+      "youtube": ""
+    },
+    {
+      "formato": "vertical",
+      "rotulo": "Reel",
+      "arquivo": "",
+      "youtube": ""
+    },
+    {
+      "formato": "quadrado",
+      "rotulo": "Imagem",
+      "arquivo": "",
+      "youtube": ""
+    }
+  ]
+}
