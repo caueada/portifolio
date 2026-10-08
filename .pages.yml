@@ -55,6 +55,9 @@ content:
         fields:
           - { name: titulo, label: Título, type: string }
           - { name: descricao, label: Descrição, type: text }
+          - { name: link, label: Link da reportagem (botão), type: string }
+          - { name: youtube, label: Link do vídeo no YouTube, type: string }
+          - { name: mostrar_video, label: Exibir com espaço de vídeo, type: boolean }
       - name: vlrnow
         label: Vlr.now (vídeos e imagens)
         type: object
