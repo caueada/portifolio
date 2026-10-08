@@ -1,17 +1,16 @@
 {
   "perfil": {
-    "foto": "",
-    "curriculo": "",
+    "foto": "media/WhatsApp Image 2026-10-08 at 11.57.17.jpeg",
     "email": "caueadamuza@gmail.com",
-    "instagram": "",
     "g1": "https://g1.globo.com/autores/caue-adamuz/",
-    "portfolio_antigo": "https://caueada.wordpress.com/portifolio/",
     "palavras": [
       "reportagem",
       "texto",
       "vídeo",
       "TV",
-      "apuração"
+      "apuração",
+      "dados",
+      "e-sports"
     ],
     "bio_destaque": "Sou jornalista em São Paulo, com experiência em reportagem para TV, texto e vídeo. Passei pela TV Diário, afiliada Globo, e pelo g1 de Mogi das Cruzes e Suzano, onde comecei como estagiário e segui como repórter.",
     "bio_complemento": "Escrevo, apuro, edito vídeos e já apresentei quadro no telejornal. Também desenvolvo projetos independentes, do documentário à análise de dados públicos e ao jornalismo de e-sports."
@@ -57,32 +56,27 @@
   "apresentacao": {
     "titulo": "Rolê no Alto Tietê",
     "descricao": "Como estagiário, produzia semanalmente a agenda cultural da região. Já como repórter, assumi a apresentação do quadro Rolê no Alto Tietê, escrevendo os offs e atuando no estúdio.",
-    "youtube": "",
     "link": "https://g1.globo.com/autores/caue-adamuz/"
   },
   "videos": [
     {
       "titulo": "Mulher de 32 anos morre afogada em piscina em Guararema",
       "descricao": "Vídeo de apoio produzido com Larissa Rodrigues.",
-      "youtube": "",
       "link": "https://g1.globo.com/autores/caue-adamuz/"
     },
     {
       "titulo": "Igrejas do Carmo de Mogi das Cruzes seguem fechadas há mais de um ano",
       "descricao": "Edição de imagens do vídeo da reportagem.",
-      "youtube": "",
       "link": "https://g1.globo.com/autores/caue-adamuz/"
     },
     {
       "titulo": "Em Mogi das Cruzes, pipoca vai além do milho",
       "descricao": "Texto e vídeo para redes sociais.",
-      "youtube": "",
       "link": "https://g1.globo.com/autores/caue-adamuz/"
     },
     {
       "titulo": "Mecânico usa caiaque para resgatar cachorros",
       "descricao": "Texto e vídeo para redes sociais.",
-      "youtube": "",
       "link": "https://g1.globo.com/autores/caue-adamuz/"
     }
   ],
@@ -91,101 +85,79 @@
       "titulo": "Empresários e comerciantes sentem impacto de aumento do IOF",
       "descricao": "Com entrevista ao deputado federal Rodrigo Gambale.",
       "link": "https://caueada.wordpress.com/portifolio/",
-      "youtube": "",
       "mostrar_video": true
     },
     {
       "titulo": "Fiéis que tiveram contato com papa falam sobre legado de Francisco",
       "descricao": "Histórias de quem esteve no Vaticano.",
       "link": "https://caueada.wordpress.com/portifolio/",
-      "youtube": "",
       "mostrar_video": true
     },
     {
       "titulo": "Região registra aumento no número de queimadas",
       "descricao": "Alta de quase 51% de 2022 a agosto de 2024. Com Mariana Queiroz, Anielle Santos e Lucas Bello.",
       "link": "https://caueada.wordpress.com/portifolio/",
-      "youtube": "",
       "mostrar_video": false
     },
     {
       "titulo": "1º leprosário do Brasil era localizado em Mogi das Cruzes",
       "descricao": "Com Everton Dertonio, e um documentário sobre o tema.",
       "link": "https://caueada.wordpress.com/portifolio/",
-      "youtube": "",
       "mostrar_video": false
     },
     {
       "titulo": "Diversos setores se adaptam ao sistema de delivery",
       "descricao": "Pauta idealizada e desenvolvida por mim.",
       "link": "https://caueada.wordpress.com/portifolio/",
-      "youtube": "",
       "mostrar_video": false
     },
     {
       "titulo": "Os problemas relacionados a passagens em nível",
       "descricao": "Segurança nas travessias de Mogi das Cruzes.",
       "link": "https://caueada.wordpress.com/portifolio/",
-      "youtube": "",
       "mostrar_video": false
     },
     {
       "titulo": "Série histórica sobre Mogi das Cruzes",
       "descricao": "Com Mariana Queiroz: Indústria, Cinturão Verde e Imigrantes.",
       "link": "https://caueada.wordpress.com/portifolio/",
-      "youtube": "",
       "mostrar_video": false
     },
     {
       "titulo": "Série de reportagens sobre trânsito",
       "descricao": "Maio Amarelo: frota de veículos, idosos e embriaguez.",
       "link": "https://caueada.wordpress.com/portifolio/",
-      "youtube": "",
       "mostrar_video": false
     }
   ],
   "vlrnow": [
     {
       "formato": "vertical",
-      "rotulo": "Reel",
-      "arquivo": "",
-      "youtube": ""
+      "rotulo": "Reel"
     },
     {
       "formato": "quadrado",
-      "rotulo": "Imagem",
-      "arquivo": "",
-      "youtube": ""
+      "rotulo": "Imagem"
     },
     {
       "formato": "vertical",
-      "rotulo": "Reel",
-      "arquivo": "",
-      "youtube": ""
+      "rotulo": "Reel"
     },
     {
       "formato": "quadrado",
-      "rotulo": "Imagem",
-      "arquivo": "",
-      "youtube": ""
+      "rotulo": "Imagem"
     },
     {
       "formato": "horizontal",
-      "rotulo": "Vídeo",
-      "arquivo": "",
-      "youtube": ""
+      "rotulo": "Vídeo"
     },
     {
       "formato": "vertical",
-      "rotulo": "Reel",
-      "arquivo": "",
-      "youtube": ""
+      "rotulo": "Reel"
     },
     {
       "formato": "quadrado",
-      "rotulo": "Imagem",
-      "arquivo": "",
-      "youtube": ""
+      "rotulo": "Imagem"
     }
   ]
 }
