@@ -26,7 +26,6 @@
     {
       "tag": "Esporte",
       "titulo": "‘Na Coreia ou no Japão, o penta tá na mão’: como uma frase levou jovem de SP à Copa de 2002",
-      "descricao": "Mais de 20 anos depois, o reencontro com o torcedor.",
       "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/12/na-coreia-ou-no-japao-o-penta-ta-na-mao-como-uma-frase-levou-jovem-de-sp-a-copa-de-2002.ghtml",
       "imagem": "media/image.png"
     },
@@ -73,28 +72,36 @@
   },
   "videos": [
     {
-      "titulo": "Mulher de 32 anos morre afogada em piscina em Guararema",
-      "descricao": "Vídeo de apoio produzido com Larissa Rodrigues.",
+      "titulo": "'Zé do ET’: artesão vende estátuas de extraterrestres que chegam a 2 metros de altura pelo Brasil",
+      "descricao": "O caminhão personalizado do artesão ficou parado em Mogi das Cruzes para vender peças feitas à mão, que vão de chaveiros a estátuas de vários tamanhos. Preparei o vídeo e a reportagem sobre essa história curiosa.\n",
+      "youtube": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/16/ze-do-et-artesao-vende-estatuas-de-extraterrestres-que-chegam-a-2-metros-de-altura-pelo-brasil.ghtml",
       "link": "https://g1.globo.com/autores/caue-adamuz/",
-      "formato": "horizontal"
+      "formato": "vertical"
     },
     {
       "titulo": "Igrejas do Carmo de Mogi das Cruzes seguem fechadas há mais de um ano",
-      "descricao": "Edição de imagens do vídeo da reportagem.",
-      "link": "https://g1.globo.com/autores/caue-adamuz/",
-      "formato": "horizontal"
-    },
-    {
-      "titulo": "Em Mogi das Cruzes, pipoca vai além do milho",
-      "descricao": "Texto e vídeo para redes sociais.",
-      "link": "https://g1.globo.com/autores/caue-adamuz/",
+      "descricao": "Edição de imagens do vídeo vertical da reportagem especial da Larissa Rodrigues.",
+      "youtube": "https://youtube.com/shorts/KoDGKwNyBiw",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/12/patrimonio-historico-nacional-igrejas-do-carmo-de-mogi-das-cruzes-seguem-fechadas-ha-mais-de-um-ano.ghtml",
       "formato": "vertical"
     },
     {
-      "titulo": "Mecânico usa caiaque para resgatar cachorros",
-      "descricao": "Texto e vídeo para redes sociais.",
-      "link": "https://g1.globo.com/autores/caue-adamuz/",
+      "titulo": "g1 completa 20 anos",
+      "descricao": "Nessas duas décadas, o mundo mudou, muita coisa aconteceu e o g1 esteve por aqui para contar essas histórias com informação, agilidade e isenção. No vídeo, a gente conta o que os atuais membros da equipe estavam fazendo naquele ano. ",
+      "youtube": "https://youtube.com/shorts/J7v5-ux7i6o?feature=share",
+      "link": "https://www.instagram.com/reel/DdcUUpgDc7-/",
       "formato": "vertical"
+    },
+    {
+      "titulo": "Após morte de Gerson Brenner, delegado relembra investigação de crime que deixou sequelas e interrompeu carreira do ator",
+      "descricao": "Francisco Del Poente diz que a investigação foi difícil, por não existirem testemunhas e pela ausência de tecnologias, como câmeras na rodovia. Fiz a edição do material para o site e redes sociais do g1.\n",
+      "youtube": "https://youtube.com/shorts/iIJ3NEUz2YE",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/03/24/apos-morte-de-gerson-brenner-delegado-relembra-investigacao-de-crime-que-deixou-sequelas-e-interrompeu-carreira-do-ator.ghtml",
+      "formato": "vertical"
+    },
+    {
+      "titulo": "Conheça a história da Vila de Taquarussu, um refúgio de 100 anos 'escondido' em São Paulo",
+      "descricao": "Local foi abrigo de imigrantes italianos e ponto estratégico no distrito rural do Quatinga, em Mogi das Cruzes, mas hoje é pouco conhecido. Com capela centenária e natureza preservada, a vila pode ser visitada com agendamento."
     }
   ],
   "tv": [
