@@ -10,10 +10,12 @@
       "vídeo",
       "TV",
       "apuração",
-      "e-sports"
+      "e-sports",
+      "factual",
+      "editor de imagens"
     ],
-    "bio_destaque": "sou um jornalista multiplataforma de SP",
-    "bio_complemento": "Tenho experiência em reportagem para TV, produção de VTs, texto e vídeo. Passei pela TV Diário, afiliada Globo, e pelo g1 de Mogi das Cruzes e Suzano, onde comecei como estagiário e segui como repórter.\n\nEscrevo, apuro, edito vídeos e apresento quadro no telejornal. Também desenvolvo projetos independentes, de documentário a jornalismo de e-sports."
+    "bio_destaque": "Sou um jornalista multiplataforma de SP",
+    "bio_complemento": "Tenho experiência em reportagem para TV, produção de VTs, texto e vídeo. Passei pela TV Diário, afiliada Globo, e pelo g1 de Mogi das Cruzes e Suzano, onde comecei como estagiário e segui como repórter.\n\n\nEscrevo, apuro, edito vídeos e apresento quadro no telejornal. Também desenvolvo projetos independentes, de documentário a jornalismo de e-sports."
   },
   "destaques": [
     {
@@ -72,7 +74,7 @@
   },
   "videos": [
     {
-      "titulo": "'Zé do ET’: artesão vende estátuas de extraterrestres que chegam a 2 metros de altura pelo Brasil",
+      "titulo": "'Zé do ET’: artesão vende estátuas de extraterrestres pelo Brasil",
       "descricao": "O caminhão personalizado do artesão ficou parado em Mogi das Cruzes para vender peças feitas à mão, que vão de chaveiros a estátuas de vários tamanhos. Preparei o vídeo e a reportagem sobre essa história curiosa.\n",
       "youtube": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/16/ze-do-et-artesao-vende-estatuas-de-extraterrestres-que-chegam-a-2-metros-de-altura-pelo-brasil.ghtml",
       "link": "https://youtube.com/shorts/mG_JpHrg40c",
